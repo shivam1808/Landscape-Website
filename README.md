@@ -1,4 +1,4 @@
-# Landscape-Website
+# Landscape Website
 
 A Static website build using HTML and CSS. It uses icons from <a href="https://fontawesome.com/">Font Awesome</a> and Fonts from <a href="https://fonts.google.com/">Google Font</a>. 
 
